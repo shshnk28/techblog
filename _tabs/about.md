@@ -32,4 +32,4 @@ I'm in Bengaluru, and open to Lead or Senior engineering roles in search,
 relevance, or backend.
 
 Find me on [GitHub](https://github.com/shshnk28) and
-[LinkedIn](your-linkedin-url).
+[LinkedIn](https://www.linkedin.com/in/shashank-shekhar-relevance/).
