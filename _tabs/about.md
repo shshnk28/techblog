@@ -3,6 +3,8 @@
 icon: fas fa-info-circle
 order: 4
 ---
+![Shashank Shekhar](/assets/img/shashank.jpeg){: width="220" style="border-radius:50%; display:block; margin:0 auto" }
+
 I work on search — specifically the part between someone typing a query
 and getting back something they actually wanted.
 
@@ -28,8 +30,12 @@ Right now I'm going deeper on embeddings, vector databases, hybrid
 retrieval and RAG — currently building a research-dossier system over
 Indian listed-company annual reports.
 
-I'm in Bengaluru, and open to Lead or Senior engineering roles in search,
-relevance, or backend.
+I live in Bengaluru with my wife and our two-year-old daughter. When I'm
+not debugging irrelevant results, I'm usually being out-argued by someone
+who doesn't have a vocabulary yet.
+
+I'm open to Lead or Senior engineering roles in search, relevance, or
+backend.
 
 Find me on [GitHub](https://github.com/shshnk28) and
 [LinkedIn](https://www.linkedin.com/in/shashank-shekhar-relevance/).
