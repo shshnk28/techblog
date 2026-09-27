@@ -1,4 +1,4 @@
-  ---
+---
 title: "Query Understanding Isn't Attribute Extraction: The 6 Jobs It Does in E-commerce"
 date: 2026-09-27 10:00:00 +0530
 categories: [Search, Query Understanding]
